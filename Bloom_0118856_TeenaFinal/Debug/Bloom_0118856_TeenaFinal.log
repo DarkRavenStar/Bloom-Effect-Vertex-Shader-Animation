@@ -1,0 +1,10 @@
+﻿  geometry_utils.cpp
+  Matrix.cpp
+  Vector.cpp
+d:\game development\school project\allassignmentfinalversion\0118856_teena_bloom_effect\bloom_0118856_teenafinal\angle_util\vector.cpp(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\allassignmentfinalversion\0118856_teena_bloom_effect\bloom_0118856_teenafinal\angle_util\vector.cpp(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\allassignmentfinalversion\0118856_teena_bloom_effect\bloom_0118856_teenafinal\angle_util\vector.cpp(164): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  demo.cpp
+d:\game development\school project\allassignmentfinalversion\0118856_teena_bloom_effect\bloom_0118856_teenafinal\demo.cpp(52): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  Bloom_0118856_TeenaFinal.vcxproj -> D:\Game Development\School Project\AllAssignmentFinalVersion\0118856_Teena_Bloom_Effect\Debug\Bloom_0118856_TeenaFinal.exe
